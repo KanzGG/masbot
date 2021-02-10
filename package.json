@@ -1,5 +1,5 @@
 {
-  "name": "XBOT",
+  "name": "kanzbot",
   "version": "1.0.0",
   "description": "khusus termux",
   "main": "index.js",
@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasap.git"
+    "url": "git+https://github.com/KanzGG/masbot.git"
   },
   "keywords": [
     "k"
