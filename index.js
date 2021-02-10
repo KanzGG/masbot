@@ -1,9 +1,9 @@
-const  XBOT = 'AMPIBI'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/affis_saputro123'; // Nama Instagramlu cok
-const nomer = 'https://Wa.me/+6282334297175'; // Nomor whatsapplu cok
-const aktif = 'Tergantung kuota'; // Kapan bot lu aktif
-const groupwa = 'comming soon'; // OFFICIAL GRUP LU 1
-const youtube = 'https://youtube.com/channel/UCYKxsg7iF9a9IZyXQRNsvqw'; 
+const  XBOT = 'kanzbot'; // Nama Bot Whatsapp
+const instagram = 'Gada'; // Nama Instagramlu cok
+const nomer = 'https://Wa.me/+6282252452100'; // Nomor whatsapplu cok
+const aktif = '24Jam'; // Kapan bot lu aktif
+const groupwa = 'https://chat.whatsapp.com/FIr6dblFcvmHvZDRuqBXTA'; // OFFICIAL GRUP LU 1
+const youtube = 'Faxez Gaming'; 
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
@@ -21,9 +21,9 @@ const speed = require('performance-now');
 const readTextInImage = require('./lib/ocr')
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:affis\n' // full name
-            + 'ORG:Owner  XBOT Bot;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=6282334297175:+62 823-3429-7175\n' // WhatsApp ID + phone number
+            + 'FN:Kanz Ganz\n' // full name
+            + 'ORG:Owner  KanzBOT Bot;\n' // the organization of the contact
+            + 'TEL;type=CELL;type=VOICE;waid=6282252452100:+62 821-4850-5737\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 
 const
